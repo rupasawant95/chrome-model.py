@@ -14,6 +14,8 @@ Output video link- https://github.com/rupasawant95/chrome-model.py/blob/main/chr
 
 Output checking using local web - https://github.com/rupasawant95/chrome-model.py/blob/main/chrome-Rviews.ipynb
 
+output link - http://b735-35-232-135-31.ngrok.io
+
 I have uploaded a csv file namely "Review_test_data.csv", In which I had made some changes in the review ratings for the positive reviews. It contains 100 records, out of these I have changed arround 15 positive reviews ratings to 1.
 
 So that when we upload this file, the api should display all these 15 values.
