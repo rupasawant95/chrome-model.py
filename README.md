@@ -10,7 +10,7 @@ The model is selected by performing hyper parameter tuning on different algorith
 
 I have deployed it in AWS Ec2 instance, code for deployment is written in "review_api.py" where we load the model and deployed it in "Amazon Web Service EC2 instance" using "Streamlit".
 
-Output video link- 
+Output video link- https://github.com/rupasawant95/chrome-model.py/blob/main/chrome%20output.mp4
 
 I have uploaded a csv file namely "Review_test_data.csv", In which I had made some changes in the review ratings for the positive reviews. It contains 100 records, out of these I have changed arround 15 positive reviews ratings to 1.
 
