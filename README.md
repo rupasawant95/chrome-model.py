@@ -19,15 +19,13 @@ So that when we upload this file, the api should display all these 15 values.
 Steps in deploying this model.(After all the necessary coding files are ready)
 
     Launch an ec2 instance
-
+    
     Download key-value pairs
-
-    Create new sequrity froups to make this APP to vailable from everywhere.
-
-    Attach this security group to the instance
-
+    
+    Create new secuirity to make this APP to the available for everywhere
+    
     Connect the Ec2 instance
 
-    Start session using Putty, puttygen and WINscp.
-
-    Finally run the app in the instance.
+    Start session using Putty, puttygen and WINscp
+    
+    Finally run the APP in the instance
